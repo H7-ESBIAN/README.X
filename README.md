@@ -41,3 +41,5 @@ EMOJI E SUAS LEGENDAS
 | ✏️    | não padronizado ainda
 | ✍️    | não padronizado ainda
 | 📍     | não padronizado ainda
+| 👀    | Revisão
+| 👁️    | Revisão
