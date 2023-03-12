@@ -4,7 +4,7 @@ Principais atalhos de teclado para vs-code + mykeybindings + keybindings exporta
 
 oem_1 = ç
 
-##### [mykeybindings]()
+##### [My Keybindings](https://github.com/H7-Dev/README.X/blob/master/VC%20CODE/My_Keybindings)
 ##### [keybindings]()
 
 | Atalho | ID | Titulo
