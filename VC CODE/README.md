@@ -12,5 +12,10 @@ oem_1 = ç
 | ctrl+alt+oem_1| workbench.action.toggleEditorWidths | Exibir: Ativar/Desativar Tamanhos de Grupo de Editor
 | ctrl+shift+o| workbench.action.gotoSymbol | Ir para Símbolo no Editor...
 | ctrl+p| workbench.action.quickOpen | Ir para Arquivo...
+| ctrl+e| workbench.action.quickOpen | Ir para Arquivo...
 | ctrl+shift+p| workbench.action.showCommands | Mostrar Todos os Comandos
+
+
+
+
 | cx| cx | cx
