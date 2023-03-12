@@ -1,9 +1,7 @@
 # Meu arquivo json para atalhos de teclado do vs-code
 
 
-
-``` json
-
+``` JSON
 {
   "key": "ctrl+alt+oem_1",
   "command": "workbench.action.toggleEditorWidths"
@@ -30,5 +28,4 @@
   "command": "breadcrumbs.focusAndSelect",
   "when": "breadcrumbsPossible && breadcrumbsVisible"
 }
-
 ```
