@@ -16,6 +16,7 @@ EMOJI E SUAS LEGENDAS
 
 | Legds | Descrição |
 |------ |:---------:|
+| 👍    | Funcional/Gambiarra
 | 👉   |  função                      |
 | 👉🔸 |  subfunção                   |
 | ✍️   |  passo a passo               |
