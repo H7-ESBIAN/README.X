@@ -1,6 +1,7 @@
 # Meu arquivo json para atalhos de teclado do vs-code
 
 // Coloque as suas associações de teclas neste arquivo para substituir os padrõesauto[]
+```JSON
 [
     {
         "key": "ctrl+oem_1",
@@ -115,3 +116,4 @@
         "command": "workbench.view.extension.project-manager"
     }
 ]
+```
