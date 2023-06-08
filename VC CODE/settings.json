@@ -1,1 +1,210 @@
 
+{
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.centerLayout": false,
+    "zenMode.hideStatusBar": false,
+    "zenMode.fullScreen": false,
+    "git.confirmSync": false,
+    "commentAnchors.tags.anchors": {
+
+
+        "ANCHOR": {
+            "iconColor": "default",
+            "highlightColor": "#A8C023",
+            "scope": "file"
+        },
+        "TODO": {
+            "iconColor": "blue",
+            "highlightColor": "#3ea8ff",
+            "scope": "workspace"
+        },
+        "FIXME": {
+            "iconColor": "red",
+            "highlightColor": "#F44336",
+            "scope": "workspace"
+        },
+        "STUB": {
+            "iconColor": "purple",
+            "highlightColor": "#BA68C8",
+            "scope": "file"
+        },
+        "NOTE": {
+            "iconColor": "orange",
+            "highlightColor": "#FFB300",
+            "scope": "file"
+        },
+        "REVIEW": {
+            "iconColor": "red",
+            "highlightColor": "red",
+            "scope": "workspace"
+        },
+        "SECTION": {
+            "iconColor": "blurple",
+            "highlightColor": "#896afc",
+            "scope": "workspace",
+            "behavior": "region"
+        },
+        "LINK": {
+            "iconColor": "#2ecc71",
+            "highlightColor": "#2ecc71",
+            "scope": "workspace",
+            "behavior": "link"
+        },
+        "!IMPORTANT": {
+            "iconColor": "#FF2D00",
+            "highlightColor": "#FF2D00",
+            "scope": "workspace",
+            "behavior": "link"
+        },
+    },
+    "better-comments.tags": [
+
+
+        {
+            "tag": "LINK",
+            "color": "blue",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "REVIEW",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#dfdf14",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#FF6F00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "Descrição",
+            "color": "#003C8C",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#F7F7F7",
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "@func",
+            "color": "#003C8C",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#F7F7F7",
+            "bold": true,
+            "italic": false
+        },
+    ],
+    "highlight-matching-tag.styles": {
+        "opening": {
+            "full": {
+                "custom": {
+                    "dark": {
+                        "borderWidth": "0 0 1px 0",
+                        "borderColor": "white",
+                        "borderStyle": "solid",
+                        "borderRadius": "4px",
+                        "right": "10px",
+                        "backgroundColor": "rgba(0,0,0,0.4)"
+                    },
+                    "light": {
+                        "borderWidth": "0 0 0px 0",
+                        "borderColor": "brown",
+                        "borderStyle": "solid",
+                        "borderRadius": "0px",
+                        "right": "10px",
+                        "backgroundColor": "rgba(255,0,0,0.1)"
+                    }
+                }
+            }
+        },
+        "closing": {
+            "full": {
+                "custom": {
+                    "dark": {
+                        "borderWidth": "0 0 1px 0",
+                        "borderColor": "white",
+                        "borderStyle": "solid",
+                        "borderRadius": "4px",
+                        "right": "10px",
+                        "backgroundColor": "rgba(0,0,0,0.4)"
+                    },
+                    "light": {
+                        "borderWidth": "0 0 0px 0",
+                        "borderColor": "brown",
+                        "borderStyle": "solid",
+                        "borderRadius": "0px",
+                        "right": "10px",
+                        "backgroundColor": "rgba(255,0,0,0.1)"
+                    }
+                }
+            }
+        }
+  
+    },
+    "explorer.autoReveal": false,
+    "explorer.compactFolders": false,
+    "svg.preview.mode": "svg",
+    "workbench.colorTheme": "Monokai ST3",
+    "security.workspace.trust.untrustedFiles": "open",
+    "vscodeGoogleTranslate.preferredLanguage": "Portuguese",
+    "github.copilot.advanced": {
+    
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.indentSize": "tabSize",
+    "editor.detectIndentation": false,
+    "git.suggestSmartCommit": false,
+}
