@@ -17,6 +17,7 @@ EMOJI E SUAS LEGENDAS
 | Legds | Descrição |
 |------ |:---------:|
 |------ |:---------: |
+| 🧩    | Classe Js  |
 | ⚗️    | Testes x   | 
 | 📩    | commit enviado por email |
 | 🔽    | mais
