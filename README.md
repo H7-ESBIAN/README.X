@@ -50,3 +50,6 @@ EMOJI E SUAS LEGENDAS
 | 📍     | não padronizado ainda
 | 👀    | Revisão
 | 👁️    | Revisão
+
+
+![image](https://github.com/H7-Dev/README.X/assets/93455937/d87b8230-3eb5-4ddf-a8ea-8bc1a30678ba)
