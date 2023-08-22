@@ -7,6 +7,7 @@ EMOJI E SUAS LEGENDAS
 
 |  Estrela     | Legds | Descrição |
 |  :-------:    | :------: |:---------:|
+| ⭐⭐⭐⭐    | [🚀 via.placeholder.com](https://chat.openai.com/share/7c65e2ee-d84e-4689-8232-f12311a6a8c1) | 🚀 via.placeholder.com
 | ⭐⭐⭐⭐    | [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) | Site de emojis
 | ⭐⭐⭐⭐⭐ | [Criar pattern](https://patternico.com/)   |  Site para criar Padrões background|
 | ⭐⭐⭐⭐⭐ | [Convertio](https://convertio.co/pt/) | Site par convert png para svg e outros
