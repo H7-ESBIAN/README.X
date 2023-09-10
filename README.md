@@ -20,13 +20,13 @@ EMOJI E SUAS LEGENDAS
 |------ |:---------: |
 | ✔️    | check/aprovado
 | ✔️✔️ | check/aprovado e revisto/compreendido
-| 🔸    |  subfunção                   |
-| 👉    |  função                      |
-| 👍    | Funcional/Gambiarra
-| 🧩    | Classe Js  |
+| 👍    | Fim de Segmento
+| 🔸    |  elo de Segmento
+| 👉    |  Iníco de Segmento
+| 🔽    | mais
+| 🧩    | Compile/Outs  |
 | ⚗️    | Testes x   | 
 | 📩    | commit enviado por email |
-| 🔽    | mais
 | 👉🔸 |  subfunção                   |
 | ✍️   |  passo a passo               |
 | ⚡   |  evento / button clicado     |
