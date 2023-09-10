@@ -18,12 +18,15 @@ EMOJI E SUAS LEGENDAS
 | Legds | Descrição |
 |------ |:---------:|
 |------ |:---------: |
+| ✔️    | check/aprovado
+| ✔️✔️ | check/aprovado e revisto/compreendido
+| 🔸    |  subfunção                   |
+| 👉    |  função                      |
+| 👍    | Funcional/Gambiarra
 | 🧩    | Classe Js  |
 | ⚗️    | Testes x   | 
 | 📩    | commit enviado por email |
 | 🔽    | mais
-| 👍    | Funcional/Gambiarra
-| 👉   |  função                      |
 | 👉🔸 |  subfunção                   |
 | ✍️   |  passo a passo               |
 | ⚡   |  evento / button clicado     |
@@ -39,7 +42,6 @@ EMOJI E SUAS LEGENDAS
 | 🏳️    | Início de um clico de vários commit|
 | 🚩    | Fim de um click de vários commit
 | 🚩✔️  | Fim de um click de vários commit
-| ✔️    | check/aprovado
 | ✅    | aprovado e compreendido
 | ☑️    | aprovado, compreendido e dominado
 | ☑️    | aprovado, compreendido e dominado
