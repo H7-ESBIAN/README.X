@@ -13,7 +13,8 @@ EMOJI E SUAS LEGENDAS
 | ⭐⭐⭐⭐⭐ | [Convertio](https://convertio.co/pt/) | Site par convert png para svg e outros
 | ⭐⭐⭐ | [materialui.co](https://materialui.co/colors/) | Site de cores UI
 
-![_alt_text_](https://img.shields.io/badge/Fase_Dev-Backend-F4F4F4?style=for-the-badge&logo=apacherocketmq)
+![_alt_text_](https://img.shields.io/badge/🚀_Fase_Dev-Backend-red?style=flat)
+
 https://sl.bing.net/jR6YJBoynrU
 
 | Legds | Descrição |
