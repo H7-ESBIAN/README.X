@@ -16,10 +16,37 @@ EMOJI E SUAS LEGENDAS
 ![_alt_text_](https://img.shields.io/badge/🚀_Fase_Dev-Backend-red?style=flat)
 
 https://sl.bing.net/jR6YJBoynrU
+Claro, aqui estão alguns emojis que podem se aproximar das palavras-chave comuns usadas em commits:
+
+**Feature:** ✨
+==================
+**Fix:** 🐛 (Bug)
+==================
+**Update:** 🚀 (Foguete)
+==================
+**Refactor:** 🛠️ (Ferramenta)
+==================
+**Docs:** 📚 (Livro)
+==================
+**Style:** 💅 (Unhas feitas)
+==================
+**Test:** 🧪 (Tubo de ensaio)
+==================
+**Chore:** 🧹 (Vassoura)
+==================
+**Performance:** ⚡ (Raio)
+==================
+**Revert:** ⏪ (Seta para a esquerda)
+==================
+**Release:** 🚀 (Foguete)
+==================
+
+Lembre-se de que o uso de emojis em commits é uma prática opcional, mas pode tornar o histórico do projeto mais visual e divertido. Certifique-se de que a equipe esteja alinhada quanto ao uso de emojis e palavras-chave.
 
 | Legds | Descrição |
 |------ |:---------:|
 |------ |:---------: |
+| ✨    | Feature   |
 | ✔️    | check/aprovado
 | ✔️✔️ | check/aprovado e revisto/compreendido
 | 👍    | Fim de Segmento
